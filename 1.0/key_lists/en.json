@@ -1,0 +1,82 @@
+{
+  "topic_of_site": "Certificate of Merit Generator",
+  "logs_number_of_grammats_first": "Approximately",
+  "logs_number_of_grammats_second": "certificates generated",
+  "left_menu_general_information": "General Information",
+  "five_point_scale": "How to display a five-point grade",
+  "use_to_move": "Use to move",
+  "mark_unread_topic": "How to show an unread subject",
+  "calculated_item": "How to show a calculated subject",
+  "move_y_axis": "Move first page on Y-axis (cover)",
+  "view": "View",
+  "exit_the_browser": "Exit Browser",
+  "left_menu_actions": {
+    "actions": "Actions",
+    "font_select": "Select Font",
+    "font_size_select": "Select Font Size",
+    "italic": "Italic",
+    "bold": "Bold",
+    "template_1": "Template #1",
+    "template_2": "Template #2",
+    "hide_background": "Hide Background",
+    "print": "PRINT",
+    "save_coords": "Save coordinates to computer",
+    "save": "SAVE",
+    "import_coords": "Import coordinates",
+    "browse": "Browse..."
+  },
+  "left_menu_files_loading": {
+    "working_with_files": "Upload File",
+    "browse": "Browse...",
+    "download_example_xls_file": "Download Sample",
+    "clear_loaded_file": "Clear",
+    "load_file": "Upload"
+  },
+  "main_detail": {
+    "region_district": "Region, District",
+    "school_name": "School Name",
+    "school_name_continued": "School Name Continued",
+    "student_last_name": "Student's Last Name",
+    "director": "Director",
+    "shift_x": "Shift on X-axis",
+    "shift_y": "Shift on Y-axis",
+    "font_size": "Font Size",
+    "teachers": "Teachers",
+    "locality": "Locality",
+    "given_day": "Date Issued",
+    "given_month_year": "Month and Year Issued",
+    "russian_language": "In Russian",
+    "awarded": "Awarded",
+    "student_gendered": "studen(t/b)"
+  },
+  "faq": {
+    "title_question_1": "How to leave unpassed subjects blank?",
+    "answer_1": "Assign a grade of \"1\" to that subject",
+    "disqus_noscript": "Please enable JavaScript to view the Disqus comments.",
+    "disqus_link_text": "Disqus Comments"
+  },
+  "youtube_php": {
+    "1_comment": "Fill in all required fields and press <b>View</b> or <b>Upload</b>, or press <b>Exit Browser</b> if you're ready to print.",
+    "2_comment": "Before printing, check your printer and page settings",
+    "3_comment": "The author is not responsible for any damage caused",
+    "4_comment": "Based on templates for grade 11 and 9 certificates.</p>",
+    "5_comment": "For contact",
+    "6_comment": "Telegram group (for questions)",
+    "7_comment": "Video tutorial",
+    "how_to_fill": "How to fill"
+  },
+  "config_page": {
+    "1_comment": "How to use!",
+    "2_comment": "Fill in all required fields and press <View> or <Upload>, or press <Exit Browser> to print.",
+    "3_comment": "The certificate template in the service might not match yours. Print a draft and compare with your actual form",
+    "4_comment": "Seminar on certificate filling",
+    "5_comment": "Service created by: Erzhan Domakov",
+    "6_comment": "Methodical support by: Aigerim Kuzembayeva",
+    "7_comment": "Suggestions and feedback here ->"
+  },
+  "for_js": {
+    "1_error": "This browser does not support HTML5.",
+    "2_error": "Please select an Excel file!",
+    "3_error": "Coordinates loaded successfully!"
+  }
+}
